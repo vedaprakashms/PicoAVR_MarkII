@@ -1,0 +1,23 @@
+Drill report for ch552ICSPUPDI.kicad_pcb
+Created on 2025-04-27T19:32:07+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'ch552ICSPUPDI-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (20 holes)
+    T2  1.000mm  0.0394"  (12 holes)
+
+    Total plated holes count 32
+
+
+Drill file 'ch552ICSPUPDI-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
